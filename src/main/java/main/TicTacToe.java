@@ -16,8 +16,8 @@ public static int[][] ticbox;
 		
 		
 		
-		//write your code here !!!
-		for(int row = 0; row<3; row++)
+		//write your code here !!
+		for(int row =0;row<3;row++)
 		{
 			if(tic[row][0] == 1 && tic[row][1]==1 && tic[row][2] == 1)
 				return 1;
